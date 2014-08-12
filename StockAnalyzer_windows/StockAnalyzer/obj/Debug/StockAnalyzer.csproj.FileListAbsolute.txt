@@ -1,0 +1,36 @@
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.exe.config
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.Properties.Resources.resources
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.csproj.GenerateResource.Cache
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.exe
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.pdb
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.mainWindow.resources
+c:\users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.graph_frame.resources
+C:\Users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\bin\Debug\prices.mdf
+C:\Users\aaron\documents\visual studio 2012\Projects\StockAnalyzer\StockAnalyzer\bin\Debug\prices_log.ldf
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\StockAnalyzer.exe.config
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.exe
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.pdb
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\prices.mdf
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\prices_log.ldf
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.mainWindow.resources
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.Properties.Resources.resources
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.graph_frame.resources
+C:\Users\aaron\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.csproj.GenerateResource.Cache
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\StockAnalyzer.exe.config
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.exe
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.pdb
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\prices.mdf
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\prices_log.ldf
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.mainWindow.resources
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.Properties.Resources.resources
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.graph_frame.resources
+C:\Users\crommie\Dropbox\stock_analyzer\StockAnalyzer_windows\StockAnalyzer\obj\Debug\StockAnalyzer.csproj.GenerateResource.Cache

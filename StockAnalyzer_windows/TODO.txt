@@ -1,0 +1,11 @@
+TODO:
+
+-Add Close button
+-Add Close All button
+-Find Defaults bug
+-Create Preferences form
+-Save current display, including stocks, indicators, plot styles
+-Create Open dialog
+-Find something for the left panel
+-Create stock screener
+-Find historical company data for download

@@ -1,0 +1,3 @@
+Bugs List:
+
+- Default Stocks button does not load company data on right side panel upon switching active MDI child windows.  This is due to (I think) the entries for all but the first symbol in defaults.dat not being deleted from companyData database. For some reason, the entries are not being deleted.  Maybe I've forgotten a lock somewhere?
