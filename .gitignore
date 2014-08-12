@@ -1,0 +1,6 @@
+# Ignore the following files:
+
+*.pyc
+*.py~
+*.pyc~
+*.dat
